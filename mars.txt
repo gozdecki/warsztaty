@@ -1,1 +1,3 @@
 Mars jest czwartą planetą.
+
+Mars jest  czerwony.
